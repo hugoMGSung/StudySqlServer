@@ -63,7 +63,7 @@ select iif(20 < 10, '참', '거짓');
 select ascii('a'), ascii('A');
 select char(98), char(66);
 select unicode('나');
-select nchar(45909);
+select nchar(44874);
 
 -- 진짜진자 많이쓰이는거
 -- 문자열 결함
